@@ -1,6 +1,6 @@
-import App from "../App"
+import App from '../App'
 
 const Header = () => {
-    return <div className='App-header'>I Heart React</div>
+    return <div className='App-header'>I ❤️ React</div>
   }
 export default Header;  
